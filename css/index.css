@@ -79,8 +79,11 @@ body, html {
   height: auto;
 }
 
+
+/* cosos */
 .social {
   width: 40%;
+  max-width: 50pt;
   height: auto;
   margin-top: 10px;
   margin-left:auto;
