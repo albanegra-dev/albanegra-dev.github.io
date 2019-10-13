@@ -1,0 +1,94 @@
+
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+    background-color: black;
+}
+
+.container {
+  width: 100%;
+  /*height: 80%;*/
+  background-color: black;
+}
+
+.bar2{
+    width: 100%;
+    height: 2%;
+    border-collapse: collapse;
+}
+
+.bar4{
+    width: 100%;
+    height: 4%;
+    border-collapse: collapse;
+}
+
+.bar6{
+    width: 100%;
+    height: 6%;
+    border-collapse: collapse;
+}
+
+.bar5{
+    width: 100%;
+    height: 0.5%;
+    border-collapse: collapse;
+}
+
+.leftpane {
+    width: 33%;
+    height: 100%;
+    float: right;
+    /*background-color: rosybrown;*/
+    border-collapse: collapse;
+}
+
+.middlepane {
+    width: 33%;
+    height: 100%;
+    float: right;
+    /*background-color: royalblue;*/
+    border-collapse: collapse;
+}
+
+.rightpane {
+  width: 33%;
+  height: 100%;
+  position: relative;
+  float: right;
+  /*background-color: yellow;*/
+  border-collapse: collapse;
+}
+
+.bottompane {
+  width: 100%;
+  height: 400px;
+  float:bottom;
+  border-collapse: collapse;
+  background-color: #4da6ff;
+}
+
+.photo {
+  width: 95%;
+  height: auto;
+}
+
+.logo {
+  width: 95%;
+  height: auto;
+}
+
+.social {
+  width: 40%;
+  max-width: 50pt;
+  height: auto;
+  margin-top: 10px;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+p {
+  color: black;
+}
